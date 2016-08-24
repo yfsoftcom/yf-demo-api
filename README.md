@@ -2,9 +2,14 @@
 
 yf-api-server 的演示项目
 
-欢迎拿去娱乐~ 
+欢迎拿去娱乐~
 
 ## 修改一下config文件
+
+将key_default.js文件复制一份，改名为key.js
+`
+$ cp key_default.js key.js
+`
 
 将里面的mysql配置都该成你自己的就行
 
