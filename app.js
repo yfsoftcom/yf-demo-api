@@ -1,6 +1,9 @@
 var async = require('async');
+var fdm = require('yf-fast-dbm');
 var config = require('./config.js');
-var M = {};
+var M = {
+  api:fdm(config.db.api)
+};
 var v002 = require('./V0.0.2');
 var yfserver = require('yf-api-server');
 var app = yfserver(config);
