@@ -12,6 +12,7 @@
     "async": "1.4.2",
     "q": "^1.4.1",
     "underscore": "^1.8.3",
-    "yf-api-server": "^1.0.13"
+    "yf-api-server": "^1.0.13",
+    "yf-fast-dbm": "^1.0.2"
   }
 }
