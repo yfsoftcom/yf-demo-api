@@ -75,3 +75,11 @@ $ npm install
 `
 $ node app.js
 `
+
+## 我自己部署了一个
+
+地址：[http://120.132.6.80:9000/api](http://120.132.6.80:9000/api)
+
+调用的使用请使用这个 appkey  ： a81bc1bb1122323b
+
+![测试的](http://upload-images.jianshu.io/upload_images/1449977-b787b6f88cfcc4ae.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
